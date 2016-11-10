@@ -3,4 +3,4 @@ Repositorio para la gestión de prácticas de Gestión de Proyectos. Grado en In
 
 
 DIEGO SANZ VILLAFRUELA    dsv0010@alu.ubu.es
-DAVID ZOTES GONZÁLEZ      dzg.0013@alu.ubu.es
+DAVID ZOTES GONZÁLEZ      dzg0013@alu.ubu.es
